@@ -13,7 +13,7 @@
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/><img src="assets/plus.svg" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />  and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45" alt="go logo"  /></p>
 <br>
 <h3>Hobbies:</h3>
-<h3><i> - Watching Anime & Reading Manga <br> - Reading <br> - Gaming <br> - Riding BMX <br> - Playing Basketball or Volleyball</i></h3>
+<h3><i> - Watching Anime & Reading Manga <br> - Gaming <br> - Riding BMX <br> - Playing Basketball or Volleyball</i></h3>
 <br><hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Marcel-Driesener&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
