@@ -12,7 +12,7 @@
 <h2>About Me:</h2>
 <h3><i>I'm 21 Years old and currently living in Germany</i></h3>
 <img align="right" height="300" src="assets/Rika.gif" alt="Rikka Takanashi 'dance'" />
-<i align="right">GIf from: Love, Chunibyo & Other Delusions</i>
+<i align="right">gif from: Love, Chunibyo & Other Delusions</i>
 <h3>Currently Learning:</h3>
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/><img src="assets/plus.svg" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />  and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45" alt="go logo"  /></p>
 <br>
