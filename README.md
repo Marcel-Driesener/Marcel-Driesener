@@ -1,14 +1,14 @@
 <h1 align="center">Hi! My name is Marcel</h1>
 <br>
 <div align="center">
-  <img align="center" height="500" src="assets/Cat.gif" alt="Cat typing on Keyboard"/>
+  <img align="center" height="380" src="assets/Cat.gif" alt="Cat typing on Keyboard"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=F7F0ACFF&multiline=true&width=500&height=100&lines=I'm+a+Computer+science+trainee;focussing+on+Software+Development" alt="Typing SVG" /></a>
 </div>
 <br>
 <br>
 <h2>About Me:</h2>
 <h3><i>I'm 21 Years old and currently living in Germany</i></h3>
-<img align="right" height="350" src="assets/Rika.gif" alt="Rikka Takanashi 'dance'" />
+<img align="right" height="300" src="assets/Rika.gif" alt="Rikka Takanashi 'dance'" />
 <h3>Currently Learning:</h3>
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/><img src="assets/plus.svg" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />  and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45" alt="go logo"  /></p>
 <br>
