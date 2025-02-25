@@ -3,7 +3,7 @@
 <div align="center">
   <div>
   <img align="center" height="240" src="assets/Cat.gif" alt="Cat typing on Keyboard"/>
-  <i>gif from: Chi's Sweet Home</i>
+  <p align=center><i>gif from: Chi's Sweet Home</i></p>
   </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=F7F0ACFF&multiline=true&width=500&height=100&lines=I'm+a+Computer+science+trainee;focussing+on+Software+Development" alt="Typing SVG" /></a>
 </div>
@@ -11,8 +11,6 @@
 <br>
 <h2>About Me:</h2>
 <h3><i>I'm 21 Years old and currently living in Germany</i></h3>
-<img align="right" height="250" src="assets/Rikka.gif" alt="Rikka Takanashi 'dance'" />
-<i align="right">gif from: Love, Chunibyo & Other Delusions</i>
 <h3>Currently Learning:</h3>
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/><img src="assets/plus.svg" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />  and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45" alt="go logo"  /></p>
 <br>
@@ -26,6 +24,7 @@
 <br><br><br>
 
 <h3 align="left">Languages</h3>
+<img align="right" height="250" src="assets/Rikka.gif" alt="Rikka Takanashi 'dance'" />
 <br>
 
 <div align="left">
@@ -66,4 +65,8 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
 </div>
-<br><br><br><hr>
+<br>
+<br>
+<p align="right"><i>gif from: Love, Chunibyo & Other Delusions</i></p>
+<br>
+<hr>
