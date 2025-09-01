@@ -1,4 +1,4 @@
-<img align="right" height="480" src="assets/Rikka.gif" alt="Rikka Takanashi 'dance'" />
+<img align="right" height="300" src="assets/Rikka.gif" alt="Rikka Takanashi 'dance'" />
 
 ### Marcel Driesener
 
