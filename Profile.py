@@ -32,7 +32,7 @@ markdown = f"""
 <br>
 <br>
 <p align="right">gif from: Love, Chunibyo & Other Delusions</p>
-<img align="right" height="300" src="assets/Rikka.gif" alt="Rikka Takanashi 'dance'" />
+<img align="right" height="260" src="assets/Rikka.gif" alt="Rikka Takanashi 'dance'" />
 
 |                       |                                                                                                      |
 | --------------------- | ---------------------------------------------------------------------------------------------------- |
