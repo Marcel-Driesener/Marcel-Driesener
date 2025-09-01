@@ -23,7 +23,7 @@ years, months, days = calculate_delta(start_date)
 # coding Since
 codingyears, codingmonths, codingdays = calculate_delta(coding_start_date)
 
-# fill Makrdown
+# fill Markdown
 markdown = f"""
 <img align="right" height="480" src="assets/Rikka.gif" alt="Rikka Takanashi 'dance'" />
 
