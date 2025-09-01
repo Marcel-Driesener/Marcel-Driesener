@@ -26,7 +26,7 @@ jobs:
           python-version: "3.x"
 
       - name: Run update script
-        run: python your_script_name.py
+        run: python Profile.py
 
       - name: Commit and push changes
         run: |
