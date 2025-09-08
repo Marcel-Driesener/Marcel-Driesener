@@ -28,7 +28,7 @@ markdown = f"""
 ## Marcel Driesener
 
 <p align="right">gif from: Love, Chunibyo & Other Delusions</p>
-<img align="right" height="300" src="assets/Rikka.gif" alt="Rikka Takanashi 'dance'" />
+<img align="right" height="280" src="assets/Rikka.gif" alt="Rikka Takanashi 'dance'" />
 
 |                       |                                                                                                      |
 | --------------------- | ---------------------------------------------------------------------------------------------------- |
