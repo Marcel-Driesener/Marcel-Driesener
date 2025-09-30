@@ -38,9 +38,9 @@ markdown = f"""
 | Hobbies               | BMX, Building Keyboards, Gaming                                                                      |
 | Fun Fact              | I have 4 Self build Keyboards from SplitKB.com                                                       |
 | Fun Fact              | My Favorite from them is the Aurora Sweep                                                            |
-| ‎                     | ‎                                                                                                    |
-| Frameworks & tools    | React, Vite, Node.js                                                                                 |
-| languages.programming | JavaScript, TypeScript, Python, Terraform                                                            |
+| ‎                      | ‎                                                                                                     |
+| Frameworks & tools    | React, Vite, Node.js, Terraform                                                                      |
+| languages.programming | JavaScript-TypeScript, Python, GO, Kotlin                                                            |
 | languages.real        | German, English                                                                                      |
 
 """
