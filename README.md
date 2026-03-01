@@ -7,8 +7,8 @@
 |                       |                                                                                                      |
 | --------------------- | ---------------------------------------------------------------------------------------------------- |
 | OS                    | Windows, Linux, Android                                                                              |
-| Runtime               | 22 years, 10 months, 27 days                   |
-| Coding Since          | 2 years, 7 months, 2 days |
+| Runtime               | 22 years, 10 months, 28 days                   |
+| Coding Since          | 2 years, 7 months, 3 days |
 | Hobbies               | BMX, Building Keyboards, Gaming                                                                      |
 | Fun Fact              | I have 4 Self build Keyboards from SplitKB.com                                                       |
 | Fun Fact              | My Favorite from them is the Aurora Sweep                                                            |
