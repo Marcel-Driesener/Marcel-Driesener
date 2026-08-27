@@ -5,7 +5,7 @@
 |                       |                                                                                                      |
 | --------------------- | ---------------------------------------------------------------------------------------------------- |
 | OS                    | Windows, Linux, Android                                                                              |
-| Coding Since          | 3 years, 0 months, 26 days |
+| Coding Since          | 3 years, 0 months, 27 days |
 | Hobbies               | BMX, Building Keyboards, Gaming                                                                      |
 | Fun Fact              | I have 4 Self build Keyboards from SplitKB.com                                                       |
 | Fun Fact              | My Favorite from them is the Aurora Sweep                                                            |
